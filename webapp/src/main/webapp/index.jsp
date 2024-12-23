@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning - Poll SCM Enabled</h1>
+    <h1>New user Register for DevOps Learning - Automate build</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
